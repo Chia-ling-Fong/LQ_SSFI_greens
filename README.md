@@ -30,17 +30,15 @@ This research evaluates the site fidelity of green turtles (*Chelonia mydas*) at
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 LQ_SSFI_greens/
 ├── code/                # Analysis scripts (.R)
 ├── data/
-│   ├── raw/             # Unprocessed field or photo-ID data (e.g. SSFI_XLQ_greens.csv)
-│   └── clean/           # Cleaned datasets for modeling and plotting
+│   └── clean/           # Cleaned dataset for analysis and plotting
 ├── results/
 │   ├── figures/         # [Temporarily unavailable] Final plots and result figures. Will be shared after publication.
-│   └── pictures/        # Raw field images (optional)
 ├── doc/
 │   └── paper/           # [Embargoed] Final manuscript PDF will be uploaded upon journal publication.
 ├── study.Rmd            # Main RMarkdown file to reproduce analysis
@@ -50,7 +48,7 @@ LQ_SSFI_greens/
 
 ---
 
-## 📊 Data
+## Data
 
 The core dataset, `SSFI_XLQ_greens.csv`, contains individual-based records from the field surveys. Each row corresponds to a uniquely photo-identified green turtle with associated metadata.
 
@@ -69,21 +67,21 @@ Key variables include:
 
 ---
 
-## 🔗 Citation
+## Citation
 
 If you use this dataset or code, please cite:
 
-> Fong, C.-L., et al. (2025). Generating Representative Mark-Resight Data and Applying a Standardized Site Fidelity Index to Study Green Turtle Foraging Aggregations. *[Journal Name]*.
+> Fong, C.-L., et al. (2025). Generating Representative Mark-Resight Data and Applying a Standardized Site Fidelity Index to Study Green Turtle Foraging Aggregations. In review.
 
 ---
 
-## 🪪 License
+## License
 
 All materials in this repository are dedicated to the public domain under the [CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ---
 
-## 🧵 Contact
+## Contact
 
 📧 Contact author:  
 Chia-Ling Fong  
