@@ -69,22 +69,6 @@ Key variables include:
 
 ---
 
-## ▶️ How to Reproduce
-
-To replicate the analysis:
-
-1. Clone this repository
-2. Open `study.Rmd` in [RStudio](https://www.rstudio.com/)
-3. Run the full document, or source scripts from `/code`
-
-Dependencies:
-- R (≥ 4.2)
-- tidyverse
-- lubridate
-- ggplot2
-
----
-
 ## 🔗 Citation
 
 If you use this dataset or code, please cite:
